@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">Aston_Intensive1</string>
+    <string name="app_name">Aston_Intensive_1</string>
+    <string name="go_to_russian_language">Go to Russian language</string>
+    <string name="back">Назад</string>
+    <string name="helloworld_second_screen">Привет, Мир!</string>
 </resources>
